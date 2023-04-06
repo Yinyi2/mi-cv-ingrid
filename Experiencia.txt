@@ -1,0 +1,3 @@
+Lo que más me gusto fue que al final pude aplicar todo lo visto en clase, sinceramente fue muy tedioso pero aun asi el resultado fue satisfactorio.
+lo que menos me gusto fue que el uso de html y css para mi fue muy complicado, ya que nunca habia usado estos, más bien nunca habia programado, por tal me mato.
+lo que más facil se me hizo fue agregar etiquetas, y lo más complicado fue vincularlo a git, no se porque no se me generaban los commits, por eso solo puse uno, pero prometo mejorar.
